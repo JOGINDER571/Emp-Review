@@ -1,7 +1,6 @@
 # EMPLOYEE REVIEW SYSTEM
 
-An application that allows employees to submit feedback toward each other’s performance
-
+A application that enables team members to comment on each other's work
 
 # TECHSTACK
 - Node.js
